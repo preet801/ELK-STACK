@@ -87,6 +87,8 @@ Then we have to click on Products >> Network >> VPC 2.0 >> Add VPC 2.0 Network.
 <img width="1470" alt="Screenshot 2025-04-16 at 12 02 50 PM" src="https://github.com/user-attachments/assets/5ad4ad03-068f-4ee8-ad1b-091bbb0784d2" />
 
 <img width="1470" alt="Screenshot 2025-04-16 at 12 02 50 PM" src="https://github.com/user-attachments/assets/1ba0a5a3-5823-4223-ae19-4ea12f4dd9ba" />
+
+<h1>Beneathe this windows server installation has begun</h1>
 <img width="1470" alt="Screenshot 2025-04-16 at 3 12 47 PM" src="https://github.com/user-attachments/assets/918c1008-ccb8-4dcb-8e3d-4b94c42b020c" />
 
 
