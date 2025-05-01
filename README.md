@@ -243,7 +243,6 @@ Now we will edit the infomation in the elasticsearch.yml file
 <img width="1470" alt="Screenshot 2025-04-17 at 2 36 44 PM" src="https://github.com/user-attachments/assets/e2c1481a-fba9-41e4-8418-a127762e4f33" />
 
 <img width="1470" alt="Screenshot 2025-04-17 at 2 37 22 PM" src="https://github.com/user-attachments/assets/07fee65f-3441-484e-88d8-214e3021a5a0" />
-<img width="1470" alt="Screenshot 2025-04-17 at 2 58 35 PM" src="https://github.com/user-attachments/assets/11382da6-af47-468b-bfb9-88d8442a693a" />
 
 
 
