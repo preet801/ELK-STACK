@@ -16,44 +16,6 @@ How to spin up your own elastic search instance?
 First of all we have to create an account on vultr.com 
 Then we have to click on Products >> Network >> VPC 2.0 >> Add VPC 2.0 Network.
 
-![image](https://github.com/user-attachments/assets/f7b4b420-71fd-4c3f-8262-5fb6f3af5952)
-We will SSH into our ELK instance and by doing ls we can see the elasticsearch under listed files
-
-![image](https://github.com/user-attachments/assets/600ebc3f-d03b-4260-bc1c-9a34b1dc3b3b)
-
-Now we will edit the infomation in the elasticsearch.yml file
-
-![image](https://github.com/user-attachments/assets/bd22706f-1fff-4dc7-8b17-2ec31171f293)
-
-
-
-![image](https://github.com/user-attachments/assets/39a4d01b-2639-4c0b-8750-fac001230c8b)
-
-![image](https://github.com/user-attachments/assets/24724fe9-f104-435d-9a5c-cda442b5d3f4)
-
-
-=================================================================================================
-
-<h1>ELASTIC SEARCH WEB GUI</h1>
-
-![image](https://github.com/user-attachments/assets/8ea2bc57-abbe-436a-9a09-1d631f0c782f)
-
-![image](https://github.com/user-attachments/assets/11ecdf07-edc1-4f73-9503-57af3b7f9815)
-
-![image](https://github.com/user-attachments/assets/14c44f7f-2587-432d-8469-cd4638d5c827)
-![image](https://github.com/user-attachments/assets/25cdea99-693a-43a4-8fc0-77df59498152)
-![image](https://github.com/user-attachments/assets/f907deb0-214c-4437-bb2e-f5e844eb9bb3)
-
-
-![image](https://github.com/user-attachments/assets/47f36207-5a09-42c3-9aff-e3bdd7f1184b)
-
-![image](https://github.com/user-attachments/assets/cffe2fe2-6f0f-41ba-a3ae-905f14294a33)
-
- FIREWALL SETTINGS
- 
-![image](https://github.com/user-attachments/assets/ed1d02bb-2752-4144-8ba4-5cf102283a30)
-
-=================================================================================================
 
 <h1>screen shots from the begining</h1>
 
