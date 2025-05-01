@@ -5,8 +5,9 @@
   <li> To understand that what is  ElasticSearch, Logstash and Kibana? what is the benefits of using it?.</li>
 </ul>
 
+<h3>Explanation</h3>
  
-<p> Elasticsearch instance helps in log analysis, security intelligence and is designed for searching large amounts of data.</p>
+  <p> Elasticsearch instance helps in log analysis, security intelligence and is designed for searching large amounts of data.</p>
 
 
 How to spin up your own elastic search instance? 
