@@ -123,7 +123,7 @@ Then we have to click on Products >> Network >> VPC 2.0 >> Add VPC 2.0 Network.
 
 
 
-
+<h1>beanthe this fleet agents are being installed on the windows machine and linux server created</h1>
 
 
 <img width="1470" alt="Screenshot 2025-04-16 at 4 07 45 PM" src="https://github.com/user-attachments/assets/91eb347f-533b-499a-8bd4-5230a912ec8f" />
