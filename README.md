@@ -18,7 +18,6 @@ Then we have to click on Products >> Network >> VPC 2.0 >> Add VPC 2.0 Network.
 
 ![image](https://github.com/user-attachments/assets/f7b4b420-71fd-4c3f-8262-5fb6f3af5952)
 
-<img width="1470" alt="Screenshot 2025-04-16 at 12 02 14 PM" src="https://github.com/user-attachments/assets/64b44b8c-7fc2-44c1-b989-7cb28e6c056d" />
 
 ![image](https://github.com/user-attachments/assets/bd22706f-1fff-4dc7-8b17-2ec31171f293)
 
@@ -245,3 +244,8 @@ s://github.com/user-attachments/assets/07fee65f-3441-484e-88d8-214e3021a5a0" />
 70" alt="Scree<img width="1470" alt="Screenshot 2025-04-16 at 4 45 46 PM" src="https://github.com/user-attachments/assets/0830070e-8b98-4382-9f30-5c46b169b54e" />
 nshot 2025-04-16 at 4 42 27 PM" src="https://github.com/user-attachments/assets/e8ea9c2a-7f8e-446c-bc0e-b73d32726324" />
 
+
+
+======
+kibana
+<img width="1470" alt="Screenshot 2025-04-16 at 12 02 14 PM" src="https://github.com/user-attachments/assets/64b44b8c-7fc2-44c1-b989-7cb28e6c056d" />
