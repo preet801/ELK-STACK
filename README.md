@@ -8,6 +8,8 @@
 <h3>Explanation</h3>
  
   <p> Elasticsearch instance helps in log analysis, security intelligence and is designed for searching large amounts of data.</p>
+  <p> the key benfits of using ELK stack is centralized logging, flexibility, visualizations, scalability and eco systems</p>
+ 
 
 
 How to spin up your own elastic search instance? 
