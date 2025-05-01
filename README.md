@@ -46,7 +46,7 @@ Then we have to click on Products >> Network >> VPC 2.0 >> Add VPC 2.0 Network.
 <img width="1470" alt="Screenshot 2025-04-16 at 11 14 10 AM" src="https://github.com/user-attachments/assets/77f2232f-c444-407c-93a2-8c5910a850ac" />
 
 
-<img width="1470" alt="Screenshot 2025-04-16 at 11 14 42 AM" src="https://github.com/user-attachments/assets/cb9f3241-0021-45f8-9731-fe87a1b230c4" />
+
 
 <img width="1470" alt="Screenshot 2025-04-16 at 11 15 22 AM" src="https://github.com/user-attachments/assets/5c994fdb-dba4-4e04-abf1-a59c521410f7" />
 
