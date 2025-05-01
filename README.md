@@ -20,6 +20,8 @@ Then we have to click on Products >> Network >> VPC 2.0 >> Add VPC 2.0 Network.
 
 
 ![image](https://github.com/user-attachments/assets/bd22706f-1fff-4dc7-8b17-2ec31171f293)
+![image](https://github.com/user-attachments/assets/600ebc3f-d03b-4260-bc1c-9a34b1dc3b3b)
+
 
 ![image](https://github.com/user-attachments/assets/39a4d01b-2639-4c0b-8750-fac001230c8b)
 
