@@ -80,6 +80,8 @@ Then we have to click on Products >> Network >> VPC 2.0 >> Add VPC 2.0 Network.
 
 <img width="1470" alt="Screenshot 2025-04-16 at 12 09 28 PM" src="https://github.com/user-attachments/assets/d205ef10-bd03-40ff-b962-4af1fb54f2bc" />
 
+<h1>Above this elastic search has been installed and is up and running and below kibana installation has started</h1>
+
 <img width="1470" alt="Screenshot 2025-04-16 at 12 07 43 PM" src="https://github.com/user-attachments/assets/bfa7655c-af28-4f56-9b6e-9337c66ef255" />
 
 <img width="1470" alt="Screenshot 2025-04-16 at 12 02 50 PM" src="https://github.com/user-attachments/assets/5ad4ad03-068f-4ee8-ad1b-091bbb0784d2" />
