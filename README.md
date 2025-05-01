@@ -1,10 +1,12 @@
 # ELK-STACK
 
 <h2>Goal of the project</h2>
+<ul>
+  <ol> To understand that what is  ElasticSearch, Logstash and Kibana? what is the benefits of using it?.</ol>
+</ul>
 
-To understand that what is  ElasticSearch, Logstash and Kibana? what is the benefits of using it?.
-
-Elasticsearch instance helps in log analysis, security intelligence and is designed for searching large amounts of data.
+ 
+<p> Elasticsearch instance helps in log analysis, security intelligence and is designed for searching large amounts of data.</p>
 
 
 How to spin up your own elastic search instance? 
