@@ -55,9 +55,7 @@ Now we will edit the infomation in the elasticsearch.yml file
 
 =================================================================================================
 
-<H2>INTIATING WINDOWS INSTANCE</H2>
-
-![image](https://github.com/user-attachments/assets/23d4aefb-9b05-48e6-b9a6-219c346fdbe9)
+<h1>screen shots from the begining</h1>
 
 <img width="1470" alt="Screenshot 2025-04-16 at 10 48 14 AM" src="https://github.com/user-attachments/assets/187d1477-7a19-4965-8d68-d004574c66a0" />
 
