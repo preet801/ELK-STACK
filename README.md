@@ -31,6 +31,11 @@ Now we will edit the infomation in the elasticsearch.yml file
 
 ![image](https://github.com/user-attachments/assets/24724fe9-f104-435d-9a5c-cda442b5d3f4)
 
+
+=================================================================================================
+
+<h1>ELASTIC SEARCH WEB GUI</h1>
+
 ![image](https://github.com/user-attachments/assets/8ea2bc57-abbe-436a-9a09-1d631f0c782f)
 
 ![image](https://github.com/user-attachments/assets/11ecdf07-edc1-4f73-9503-57af3b7f9815)
@@ -38,6 +43,8 @@ Now we will edit the infomation in the elasticsearch.yml file
 ![image](https://github.com/user-attachments/assets/14c44f7f-2587-432d-8469-cd4638d5c827)
 ![image](https://github.com/user-attachments/assets/25cdea99-693a-43a4-8fc0-77df59498152)
 ![image](https://github.com/user-attachments/assets/f907deb0-214c-4437-bb2e-f5e844eb9bb3)
+
+=================================================================================================
 ![image](https://github.com/user-attachments/assets/47f36207-5a09-42c3-9aff-e3bdd7f1184b)
 ![image](https://github.com/user-attachments/assets/23d4aefb-9b05-48e6-b9a6-219c346fdbe9)
 ![image](https://github.com/user-attachments/assets/ed1d02bb-2752-4144-8ba4-5cf102283a30)
