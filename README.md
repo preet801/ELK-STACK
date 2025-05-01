@@ -17,10 +17,14 @@ First of all we have to create an account on vultr.com
 Then we have to click on Products >> Network >> VPC 2.0 >> Add VPC 2.0 Network.
 
 ![image](https://github.com/user-attachments/assets/f7b4b420-71fd-4c3f-8262-5fb6f3af5952)
+We will SSH into our ELK instance and by doing ls we can see the elasticsearch under listed files
 
+![image](https://github.com/user-attachments/assets/600ebc3f-d03b-4260-bc1c-9a34b1dc3b3b)
+
+Now we will edit the infomation in the elasticsearch.yml file
 
 ![image](https://github.com/user-attachments/assets/bd22706f-1fff-4dc7-8b17-2ec31171f293)
-![image](https://github.com/user-attachments/assets/600ebc3f-d03b-4260-bc1c-9a34b1dc3b3b)
+
 
 
 ![image](https://github.com/user-attachments/assets/39a4d01b-2639-4c0b-8750-fac001230c8b)
