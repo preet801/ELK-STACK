@@ -2,7 +2,7 @@
 
 <h2>Goal of the project</h2>
 <ul>
-  <ol> To understand that what is  ElasticSearch, Logstash and Kibana? what is the benefits of using it?.</ol>
+  <li> To understand that what is  ElasticSearch, Logstash and Kibana? what is the benefits of using it?.</li>
 </ul>
 
  
