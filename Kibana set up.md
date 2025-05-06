@@ -14,11 +14,6 @@ Go to https://www.elastic.co/downloads/kibana
 
 
 
-<img width="1470" alt="Screenshot 2025-04-16 at 11 41 46 AM" src="https://github.com/user-attachments/assets/61f61986-c33b-44ca-b3d9-82e96da429f5" />
-
-
-
-<img width="1470" alt="Screenshot 2025-04-16 at 12 09 28 PM" src="https://github.com/user-attachments/assets/d205ef10-bd03-40ff-b962-4af1fb54f2bc" />
 
 
 
