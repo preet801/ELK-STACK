@@ -18,6 +18,9 @@ Go to https://www.elastic.co/downloads/kibana
 ![image](https://github.com/user-attachments/assets/ae478a0c-53b5-4b82-bceb-b0e831a07290)
 
 
+![image](https://github.com/user-attachments/assets/189351c8-7e2b-420b-805b-275f5350176f)
+
+
 
 
 
