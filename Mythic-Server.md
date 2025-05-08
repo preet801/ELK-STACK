@@ -30,5 +30,10 @@
 
 ![image](https://github.com/user-attachments/assets/a5e3b234-2185-4c46-8e9f-23caa14b1381)
 
+installing mythic agent
+
+![image](https://github.com/user-attachments/assets/8ad102d3-ac1c-4a9d-a866-9eea4a1f69e4)
+
+
 
 
