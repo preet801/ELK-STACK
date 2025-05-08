@@ -34,6 +34,11 @@ installing mythic agent
 
 ![image](https://github.com/user-attachments/assets/8ad102d3-ac1c-4a9d-a866-9eea4a1f69e4)
 
+Installed agent can be seen in the following image
+
+![image](https://github.com/user-attachments/assets/5a3f7297-d0ae-40a6-af93-761bb802c5a5)
+
+
 
 
 
