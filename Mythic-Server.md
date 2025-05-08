@@ -60,6 +60,7 @@ Installed agent can be seen in the following image
 
 
 
+![image](https://github.com/user-attachments/assets/0e82255e-199f-4c79-8558-685841bc7d90)
 
 
 
