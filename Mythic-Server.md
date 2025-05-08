@@ -51,6 +51,9 @@ Installed agent can be seen in the following image
 
 ![image](https://github.com/user-attachments/assets/8086c708-7f02-49f1-97b6-315cae6a12c1)
 
+![image](https://github.com/user-attachments/assets/9ab1c3f2-d0ee-458c-8bd4-c30463fb6623)
+
+
 
 
 
