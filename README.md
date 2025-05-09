@@ -17,6 +17,10 @@ First of all we have to create an account on vultr.com
 Then we have to click on Products >> Network >> VPC 2.0 >> Add VPC 2.0 Network.
 
 
+![image](https://github.com/user-attachments/assets/775993fc-e62c-4d5f-8737-70275db6f4b8)
+
+
+
 
 
 <img width="1470" alt="Screenshot 2025-04-16 at 10 48 14 AM" src="https://github.com/user-attachments/assets/187d1477-7a19-4965-8d68-d004574c66a0" />
