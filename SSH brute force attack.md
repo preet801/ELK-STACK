@@ -16,3 +16,8 @@ Creating Maps in Kibana
 
 
 ![image](https://github.com/user-attachments/assets/224bde1d-1021-43e4-8b7c-526a061da227)
+
+findings
+
+![image](https://github.com/user-attachments/assets/dad87c55-14fc-4591-a0e6-5b2a6a42da2f)
+
